@@ -3,7 +3,7 @@ import json
 from nicegui import ui
 
 
-"""Script para convertir un archivo CSV a JSON"""
+"""Script para convertir un archivo CSV a JSON prueba"""
 
 
 def convert_csv_2_json(input_file):
